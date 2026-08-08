@@ -1,0 +1,15 @@
+{
+  "name": "Contract Saver Germany",
+  "short_name": "Contract Saver",
+  "description": "إدارة العقود ومواعيد الإلغاء والتوفير",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6fa",
+  "theme_color": "#111827",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
